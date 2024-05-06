@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WatchNews/static/css/main.22019e3c.css",
+    "main.js": "/WatchNews/static/js/main.c454e8e7.js",
+    "static/js/453.35257dcb.chunk.js": "/WatchNews/static/js/453.35257dcb.chunk.js",
+    "index.html": "/WatchNews/index.html",
+    "main.22019e3c.css.map": "/WatchNews/static/css/main.22019e3c.css.map",
+    "main.c454e8e7.js.map": "/WatchNews/static/js/main.c454e8e7.js.map",
+    "453.35257dcb.chunk.js.map": "/WatchNews/static/js/453.35257dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22019e3c.css",
+    "static/js/main.c454e8e7.js"
+  ]
+}
